@@ -1,3 +1,3 @@
 # git_test
-TOP git basics lesson
+TOP git basics
 Hello Odin!
